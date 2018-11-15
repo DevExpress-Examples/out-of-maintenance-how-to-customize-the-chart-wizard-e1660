@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomChartTypeUserControl.cs](./CS/CustomChartTypeUserControl.cs) (VB: [CustomChartTypeUserControl.vb](./VB/CustomChartTypeUserControl.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # How to customize the Chart Wizard
 
 
